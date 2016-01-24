@@ -64,9 +64,7 @@ Exécution :
 
 ![Résultat d’exécution](http://i.imgur.com/DAzvboe.png)
 
-### Option 7: 
-
-Concaténation de deux fichiers 
+### Option 7 : Concaténation de deux fichiers 
 
 ```bash
 # en haut du script vers les entrées de menu
@@ -91,7 +89,7 @@ Exécution :
 
 ![Exécution](http://i.imgur.com/L9YSzuZ.png)
 
-### Option 8: nombre d’occurrences d'un mot dans un fichier
+### Option 8 : nombre d’occurrences d'un mot dans un fichier
 
 ```bash
 # dans le menu
